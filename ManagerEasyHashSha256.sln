@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerEasyHashSha256", "ManagerEasyHashSha256\ManagerEasyHashSha256.csproj", "{FA72AF28-55F4-4292-AEEE-495497A6E16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerEasyHashSha256.Injection", "ManagerEasyHashSha256.Injection\ManagerEasyHashSha256.Injection.csproj", "{8D00BE6A-8714-4AE3-997E-4667706DE77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA72AF28-55F4-4292-AEEE-495497A6E16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA72AF28-55F4-4292-AEEE-495497A6E16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA72AF28-55F4-4292-AEEE-495497A6E16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA72AF28-55F4-4292-AEEE-495497A6E16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D00BE6A-8714-4AE3-997E-4667706DE77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D00BE6A-8714-4AE3-997E-4667706DE77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D00BE6A-8714-4AE3-997E-4667706DE77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D00BE6A-8714-4AE3-997E-4667706DE77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1F5D48-AE96-4C74-BF13-9D95490B62C7}
+	EndGlobalSection
+EndGlobal
